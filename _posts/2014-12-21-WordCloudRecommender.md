@@ -630,4 +630,3 @@ I want to come up with a review food corpus so that I can recognize food entitie
 **Editorial Notes/Me rambling about random stuff that you should probably maybe read** 
 
 There are certain parameters in this program that can be changed to alter results. The results will vary everytime the algorithm is run but the selection criteria will remain the same. Permuting the selection will affect results, not necessarily a bad thing. It will be interesting to explore this. You can manipulate various thresholds such as the sentiment or similarity thresholds to tailor the algorithms criteria to your needs. For those wondering, the algorithm does yield coherent results, and the results will be further studied.
----
