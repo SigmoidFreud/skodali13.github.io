@@ -5,10 +5,7 @@
 url: http://skodali1.github.io
 title: Sigmoid Freud
 email: kodalisushanth@gmail.com
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+description: This Blog was started to explore ideas and projects I have when it comes to Data Science.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
