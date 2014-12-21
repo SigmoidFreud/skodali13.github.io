@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Building a Customized Unsupervised Recommender
-category: Data Science
+title: Word Cloud Recommender
+img: https://raw.githubusercontent.com/skodali1/skodali1.github.io/master/img/services/eat-one-thing-.png
 
 [id]: https://raw.githubusercontent.com/skodali1/skodali1.github.io/master/images/data-science.jpg
 
