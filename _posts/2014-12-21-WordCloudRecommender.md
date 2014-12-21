@@ -1,6 +1,6 @@
 ---
 layout: default
-img: eat-one-thing.png
+img: eat-one-thing-.png
 title: Word Cloud Recommender
 category: Data Science
 
