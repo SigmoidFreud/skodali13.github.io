@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Word Cloud Recommender
-img: https://raw.githubusercontent.com/skodali1/skodali1.github.io/master/img/services/eat-one-thing-.png
+img: eat-one-thing-.png
 category: Data Science
 
 
