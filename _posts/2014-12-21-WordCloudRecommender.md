@@ -1,14 +1,14 @@
 ---
-layout: default
-img: eat-one-thing-.png
-title: Word Cloud Recommender
+layout: post
+title: Building a Customized Unsupervised Recommender
 category: Data Science
-description: 
+
+[id]: https://raw.githubusercontent.com/skodali1/skodali1.github.io/master/images/data-science.jpg
 
 
 excerpt: I had the idea of building a recommender/predictor for what restaurants a yelp user might like using the reviews they have written, and building a word cloud according to a word neural network using contextual similarity and and unsupervised sentiment. 
----
 
+---
 
 I had the idea of building a recommender/predictor for what restaurants a yelp user might like using the reviews they have written, and building a word cloud according to a word neural network using contextual similarity and unsupervised sentiment.
 
