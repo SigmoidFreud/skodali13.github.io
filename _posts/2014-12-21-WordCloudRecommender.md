@@ -3,13 +3,11 @@ layout: post
 title: Word Cloud Recommender
 img: eat-one-thing-.png
 category: Data Science
-
-
-excerpt: I had the idea of building a recommender/predictor for what restaurants a yelp user might like using the reviews they have written, and building a word cloud according to a word neural network using contextual similarity and and unsupervised sentiment. 
+description: I had the idea of building a recommender/predictor for what restaurants a yelp user might like using the reviews they have written, and building a word cloud according to a word neural network using contextual similarity and unsupervised sentiment.
 
 ---
 
-description: I had the idea of building a recommender/predictor for what restaurants a yelp user might like using the reviews they have written, and building a word cloud according to a word neural network using contextual similarity and unsupervised sentiment.
+
 
 **Algorithmic Methodology**
 
