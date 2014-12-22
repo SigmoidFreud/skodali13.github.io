@@ -7,7 +7,7 @@ category: Data Science
 
 excerpt: I had the idea of building a recommender/predictor for what restaurants a yelp user might like using the reviews they have written, and building a word cloud according to a word neural network using contextual similarity and and unsupervised sentiment. 
 
-
+---
 
 description: I had the idea of building a recommender/predictor for what restaurants a yelp user might like using the reviews they have written, and building a word cloud according to a word neural network using contextual similarity and unsupervised sentiment.
 
@@ -629,7 +629,3 @@ I want to come up with a review food corpus so that I can recognize food entitie
 **Editorial Notes/Me rambling about random stuff that you should probably maybe read** 
 
 There are certain parameters in this program that can be changed to alter results. The results will vary everytime the algorithm is run but the selection criteria will remain the same. Permuting the selection will affect results, not necessarily a bad thing. It will be interesting to explore this. You can manipulate various thresholds such as the sentiment or similarity thresholds to tailor the algorithms criteria to your needs. For those wondering, the algorithm does yield coherent results, and the results will be further studied.
-
----
-
-
